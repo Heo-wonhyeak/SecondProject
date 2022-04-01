@@ -7,5 +7,6 @@ public class Hello {
 	  System.out.println("What is git?");	 
         	System.out.println("i want food.");	
 	  System.out.println("git is DVMS");
+	    System.out.println(Hello Git2!);
 		 }
 }
